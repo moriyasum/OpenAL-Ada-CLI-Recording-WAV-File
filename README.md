@@ -9,4 +9,6 @@ Ubuntu: 24.04.2 LTS, Gnat: 14.2.1, Gtkada:25.0.1
 PC: OMEN 17-ck2095cl, i9-13900HX, RTX-4080
 OpenAL 1.1.1 was installed
 
+Details are here: https://n7sd.com/ada1-2/openal-ada-cli-recording-wav-file/
+
 <img width="737" height="1110" alt="Screenshot Record_WAV" src="https://github.com/user-attachments/assets/462d73ec-385b-45f1-a569-690995389ed8" />
